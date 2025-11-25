@@ -1,4 +1,4 @@
-# traders-inter-val[readme (5).md](https://github.com/user-attachments/files/23737220/readme.5.md)
+[readme (5).md](https://github.com/user-attachments/files/23737220/readme.5.md)
 # interval traders learning app
 
 A Pen created on CodePen.
